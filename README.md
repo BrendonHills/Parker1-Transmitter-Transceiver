@@ -1,7 +1,8 @@
 # The Parker1-Transmitter / Transceiver
 The design of a ten band HF transmitter / transceiver and winner of the G-QRP Club Memorial Trophy 2024.
 
-Please see the attached submission to the G-QRP Club for a full description of the project.
+Please see the attached submission to the G-QRP Club for a full description of the project. Circuit diagrams and PCB files are in Ki-Cad 7.0
+software and you may need to download that in order to view.
 
 The transmitter consists of two parts, the Nano VFO and the HF Multi-band PA, connected together to make the transmitter. 
 Note that the HF PA board is designed to have the QRPLabs LPF Relay board mounted on it to provide five LPFs covering ten bands (160-10m.)
